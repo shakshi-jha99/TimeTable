@@ -1,0 +1,11 @@
+form{
+    border:2px solid black;
+    padding:50px;
+    display:inline-block;
+    border-spacing: 40px;
+    text-align: center;
+    margin: 50px 610px;
+}
+h1{
+    text-align: center;
+}
